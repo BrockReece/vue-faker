@@ -1,0 +1,28 @@
+{
+  "name": "vue-faker",
+  "version": "1.0.0",
+  "description": "Vue plugin that wraps faker.js",
+  "main": "vue-faker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/vue-faker.git"
+  },
+  "keywords": [
+    "Vue",
+    "plugin",
+    "faker.js",
+    "dev"
+  ],
+  "author": "Brock Reece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockReece/vue-faker/issues"
+  },
+  "homepage": "https://github.com/BrockReece/vue-faker#readme",
+  "dependencies": {
+    "faker": "^3.0.1"
+  }
+}
