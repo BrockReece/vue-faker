@@ -1,6 +1,6 @@
 {
   "name": "vue-faker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue plugin that wraps faker.js",
   "main": "vue-faker.js",
   "scripts": {
