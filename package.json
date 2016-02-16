@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/BrockReece/vue-faker#readme",
   "dependencies": {
-    "faker": "^3.0.1"
+    "faker": "^3.0.1",
+    "underscore": "^1.8.3"
   }
 }
