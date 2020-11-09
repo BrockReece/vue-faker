@@ -1,6 +1,6 @@
 {
   "name": "vue-faker",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Vue plugin that wraps faker.js",
   "main": "vue-faker.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/BrockReece/vue-faker#readme",
   "dependencies": {
-    "faker": "^4.1.0",
+    "faker": "^5.0.0",
     "underscore": "^1.8.3"
   }
 }
